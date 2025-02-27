@@ -7,6 +7,7 @@
 
 
 [![modern cpp](https://img.shields.io/badge/code-JAVA-blue)]()
+[![modern cpp](https://img.shields.io/badge/code-python-blue)]()
 [![modern cpp](https://img.shields.io/badge/code-C-blue)]()
 [![modern cpp](https://img.shields.io/badge/code-VUE-blue)]()
 ![](https://img.shields.io/badge/喜欢-听音乐-yellow) 
